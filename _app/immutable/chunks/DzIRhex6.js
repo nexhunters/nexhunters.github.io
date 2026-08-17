@@ -1,0 +1,1 @@
+import{d as e}from"./D--Y3DxY.js";var t=new Map(e.map(e=>[e.id,e]));function n(e){let n=0;for(let r of e.assignedRaids){let e=t.get(r);e&&(n+=e.tradableGold??0)}return n}function r(e){let t=0;for(let r of e)t+=n(r);return t}export{r as n,n as t};

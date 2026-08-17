@@ -1,0 +1,1 @@
+import{Q as e}from"../chunks/DL1Nav93.js";import"../chunks/xihTtKlq.js";var t=e({csr:()=>!0,prerender:()=>!0,ssr:()=>!0});function n(e){}export{n as component,t as universal};
