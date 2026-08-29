@@ -1,0 +1,1 @@
+import{$ as e}from"./CZ4ViPv7.js";import"./00900pGx.js";var t=e(null);function n(e){return new Promise(n=>{t.set({title:e,resolve:e=>{t.set(null),n(e)}})})}export{n,t};
