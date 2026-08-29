@@ -1,0 +1,1 @@
+import{ft as e}from"../chunks/CySbjV0w.js";import"../chunks/xihTtKlq.js";var t=e({csr:()=>!0,prerender:()=>!0,ssr:()=>!0});function n(e){}export{n as component,t as universal};
