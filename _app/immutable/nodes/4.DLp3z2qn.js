@@ -1,0 +1,1 @@
+import{U as e,gt as t,q as n,x as r}from"../chunks/BmkEj2G9.js";import"../chunks/xihTtKlq.js";var i=t({csr:()=>!0,prerender:()=>!0,ssr:()=>!0});function a(t){r(`1uha8ag`,t=>{e(()=>{n.title=`Tools`})})}export{a as component,i as universal};
