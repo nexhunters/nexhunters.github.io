@@ -1,0 +1,1 @@
+import{st as e}from"./DkyrMPkq.js";import"./CXI3x5xR.js";var t=e(null);function n(e){return new Promise(n=>{t.set({title:e,resolve:e=>{t.set(null),n(e)}})})}export{n,t};
