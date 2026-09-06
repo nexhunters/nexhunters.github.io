@@ -1,0 +1,1 @@
+import{ct as e}from"./D8BtiOd6.js";import"./D8E4fDXT.js";var t=e(null);function n(e){return new Promise(n=>{t.set({title:e,resolve:e=>{t.set(null),n(e)}})})}export{n,t};
