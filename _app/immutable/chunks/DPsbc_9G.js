@@ -1,0 +1,1 @@
+import{pt as e}from"./C61ONDLo.js";import"./CpvcXuPh.js";var t=e(null);function n(e){return new Promise(n=>{t.set({title:e,resolve:e=>{t.set(null),n(e)}})})}export{n,t};
